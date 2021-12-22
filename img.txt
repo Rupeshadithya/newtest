@@ -1,1 +1,10 @@
 this is not empty file
+
+if
+hungry
+
+go and eat
+
+else 
+
+ do work 
