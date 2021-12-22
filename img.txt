@@ -1,4 +1,11 @@
 this is not empty file
 
 
+<<<<<<< HEAD
 adding updation again
+=======
+hungry
+
+
+modfication 
+>>>>>>> thirsty
